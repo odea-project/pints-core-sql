@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "PINTS Core SQL"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Renner"
+    given-names: "Gerrit"
+    affiliation: "University of Duisburg-Essen"
+    orcid: "https://orcid.org/0000-0003-3808-5890"
+  # Add more authors here
+repository-code: "https://github.com/odea-project/pints-core-sql"
+license: "MIT"
+version: "1.0.0"
+date-released: "2025-09-14"
+keywords:
+  - non-target screening
+  - mass spectrometry
+  - open data standards
+  - SQL schema
+  - pipelines

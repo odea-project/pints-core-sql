@@ -1,0 +1,11 @@
+PINTS - Pipelines for Non-Target Screening
+Copyright (c) 2025 PINTS Contributors
+
+This product includes software developed as part of the PINTS project.
+Distributed under the MIT License (see LICENSE file).
+
+Ontology terms and units used in the SQL schema are based on:
+- PSI-MS Ontology (https://www.ebi.ac.uk/ols/ontologies/ms)
+- Units of Measurement Ontology (UO, https://www.ebi.ac.uk/ols/ontologies/uo)
+
+No endorsement by the PSI-MS or UO maintainers is implied.
