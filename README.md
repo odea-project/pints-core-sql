@@ -20,8 +20,7 @@ This repository provides the *universal SQL layer* for NTS feature data, based o
 pints-core-sql/
 ├── sql/
 │   ├── core/        # Minimal mandatory schema
-│   ├── seeds/       # Ontology + unit seeds
-│   └── plugins/     # Optional extensions
+│   └── seeds/       # Ontology + unit seeds
 ├── tests/           # Smoke test SQLs
 ├── docs/            # Contribution guidelines
 ├── VERSION          # Schema version (SemVer)
