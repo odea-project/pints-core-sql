@@ -16,17 +16,19 @@ This repository provides the *universal SQL layer* for NTS feature data, based o
 ---
 
 ## 📂 Repository structure
+```
 pints-core-sql/
-├─ sql/
-│ ├─ core/ # Minimal mandatory schema
-│ ├─ seeds/ # Ontology + unit seeds
-│ └─ plugins/ # Optional extensions
-├─ tests/ # Smoke test SQLs
-├─ docs/ # Contribution guidelines
-├─ VERSION # Schema version (SemVer)
-├─ LICENSE # MIT License
-├─ NOTICE # Third-party notices
-└─ CITATION.cff # Citation metadata
+├── sql/
+│   ├── core/        # Minimal mandatory schema
+│   ├── seeds/       # Ontology + unit seeds
+│   └── plugins/     # Optional extensions
+├── tests/           # Smoke test SQLs
+├── docs/            # Contribution guidelines
+├── VERSION          # Schema version (SemVer)
+├── LICENSE          # MIT License
+├── NOTICE           # Third-party notices
+└── CITATION.cff     # Citation metadata
+```
 
 ## 🚀 Quickstart
 ### Using DuckDB CLI
